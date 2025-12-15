@@ -4,7 +4,8 @@ using namespace std;
 //////////////////////////////////////////////////////////////////////////////////////////////////////////
 //
 //  Function name:  Display
-//  Description:    Displays a star pattern till given number by using recursive function.
+//  Description:    Displays a number pattern in reverse order till given number 
+//                  by using recursive function.
 //  Input:          Void
 //  Output:         Void
 //  Author:         Mrunmai Jitendra Khadpe
