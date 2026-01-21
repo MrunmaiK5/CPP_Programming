@@ -1,12 +1,14 @@
-# CPP_Programming
+# CPP Programming
 
-This repository contains C++ programs covering procedural and basic OOP concepts.
-It focuses on logic building using features like classes and STL basics.
-The programs are concise and easy to read.
+This repository contains C++ programs aimed at strengthening programming logic and understanding core language features.  
+It includes assignment-based problems and practice codes using procedural and object-oriented concepts.
 
 ## Repository Structure
-
+````
 CPP_Programming/
-├── Codes/        # C++ practice programs
-├── Assignments/ # Additional programs
-├── README.md    # Repository information
+├── Assignments/   # C++ assignment programs
+├── Codes/         # Core C++ and OOP-based programs
+├── .gitignore
+├── LICENSE
+└── README.md
+````
