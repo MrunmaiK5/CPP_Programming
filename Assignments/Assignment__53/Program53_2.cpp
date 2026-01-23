@@ -6,7 +6,7 @@ using namespace std;
 //  Function name:  CheckSorted
 //  Description:    Check whether given array is sorted or not.
 //  Input:          Generic value, Integer
-//  Output:         Generic value
+//  Output:         Boolean
 //  Author:         Mrunmai Jitendra Khadpe
 //  Date:           10/01/2025
 //
