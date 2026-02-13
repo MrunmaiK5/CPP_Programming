@@ -1,0 +1,38 @@
+#include<iostream>
+using namespace std;
+
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+//  Function name:  Display
+//  Description:    Displays a pattern till given number by using recursive function.
+//  Input:          Void
+//  Output:         Void
+//  Author:         Mrunmai Jitendra Khadpe
+//  Date:           13/02/2026
+//
+//////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+/*
+    Input : 5
+    Output : * * * * *
+*/
+
+void Display(int iNo)
+{
+    if (iNo >= 1)
+    {
+        cout << "*\t";
+        Display(iNo-1);
+    }
+    else
+    {
+        cout << "\n";
+    }
+}
+
+int main()
+{
+    Display(5);
+
+    return 0;
+}
